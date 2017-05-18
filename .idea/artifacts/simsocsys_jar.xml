@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="simsocsys:jar">
+    <output-path>$PROJECT_DIR$/../simsocsys-sose17/out/artifacts/simsocsys_jar</output-path>
+    <root id="archive" name="simsocsys.jar">
+      <element id="module-output" name="simsocsys" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/processing/pdf/2.2.1/pdf-2.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/itextpdf/itextpdf/5.5.6/itextpdf-5.5.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/processing/core/2.2.1/core-2.2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
